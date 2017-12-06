@@ -1,5 +1,6 @@
 package ChunCheChiangBaseProject;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -7,6 +8,7 @@ import static org.junit.Assert.*;
 public class example1Test {
     @Test
     public void getType() throws Exception {
+
     }
 
 }
